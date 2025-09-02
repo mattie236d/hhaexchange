@@ -18,7 +18,7 @@ hhaexchange is a dedicated web application designed to simplify the financial ma
 ## Author
 **Name:** Kiorgn jrn
 **Email:** erfbjkjdf765@gmail.com
-**Website:** hhaexchange
+**Website:** [hhaexchange](https://www.hha-exchange.com)
 
 **Bio:** Kiorgn jrn is an accomplished software developer with over a decade of experience building robust and intuitive web applications. With a master's degree in Computer Science, Kiorgn is a master in coding, particularly excelling in front-end architecture and state management with React. His deep understanding of user-centric design and his passion for solving real-world problems led him to create hhaexchange. Known for his collaborative and helping nature, Kiorgn is an active contributor to the open-source community, always willing to mentor new developers and share his extensive knowledge.
 
